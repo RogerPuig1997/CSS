@@ -1,0 +1,19 @@
+*{
+    background-color: lightsalmon;
+}
+div{
+    margin: 50px 150px;
+    padding: 10px 25px;
+    border: solid 2px black;
+    background-color: white;
+    font-size:xx-large;
+}
+div.right{
+    text-align: right;
+}
+div.center{
+    text-align: center;
+}
+div.left{
+    text-align: left;
+}
