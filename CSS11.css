@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+h2{
+    width: fit-content;
+    margin: 0 auto;
+    background-color: lightblue;
+    font-style: bold;
+}
+table{
+    margin: 0 auto;
+    background-color: burlywood;
+    border: solid 4px black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 50%;
+    table-layout: fixed;
+}
+td{
+    border-bottom: solid 2px;
+    border-left: solid 1px;
+    padding: 1px;
+}
+.tfoot{
+    background-color: lightblue;
+    font-style: bold;
+    border-style: hidden;
+}
