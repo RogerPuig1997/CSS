@@ -1,0 +1,30 @@
+header{
+    height: 100px;
+    width: auto;
+    background-color: red;
+}
+nav{
+    height: 20px;
+    width: auto;
+    background-color: blue;
+}
+section{
+    height: 500px;
+    width: 55%;
+    background-color: lightpink;
+    float: left;
+}
+aside{
+    height: 500px;
+    width: 40%;
+    background-color: lightcoral;
+    float: right;
+}
+footer{
+    height: 20px;
+    width: auto;
+    background-color: greenyellow;
+    position: sticky;
+    bottom: 0px;
+    clear: both;
+}
