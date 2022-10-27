@@ -1,0 +1,90 @@
+@media (min-width: 1024px) {
+  div.orange {
+    height: 100px;
+    width: 48%;
+    margin: 1%;
+    background-color: orange;
+    float: left;
+  }
+  div.yellow {
+    height: 400px;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    background-color: yellow;
+  }
+  div.blue {
+    height: 300px;
+    width: 31%;
+    margin: 1.1%;
+    float: left;
+    background-color: blue;
+  }
+  div.grey {
+    height: 200px;
+    width: 23%;
+    margin: 1%;
+    float: left;
+    background-color: gray;
+  }
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+  div.orange {
+    height: 50px;
+    width: 98%;
+    margin: 1%;
+    background-color: blue;
+    float: left;
+  }
+  div.yellow {
+    height: 200px;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    background-color: green;
+  }
+  div.blue {
+    height: 100px;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    background-color: yellow;
+  }
+  div.grey {
+    height: 100px;
+    width: 48%;
+    margin: 1%;
+    float: left;
+    background-color: red;
+  }
+}
+@media (max-width: 768px) {
+  div.orange {
+    height: 50px;
+    width: 98%;
+    margin: 1%;
+    background-color: blue;
+    float: left;
+  }
+  div.yellow {
+    height: 100px;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    background-color: green;
+  }
+  div.blue {
+    height: 100px;
+    width: 98%;
+    margin: 1.1%;
+    float: left;
+    background-color: yellow;
+  }
+  div.grey {
+    height: 50px;
+    width: 98%;
+    margin: 1%;
+    float: left;
+    background-color: red;
+  }
+}
